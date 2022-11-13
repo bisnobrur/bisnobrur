@@ -1,7 +1,7 @@
 [![MasterHead](https://ibb.co/Vj9GT0f)]
 <h1 align="center">Hi , I'm Bisno Das</h1>
 <h3 align="center">A Passionate Python Programmer and WordPress Developer From Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://ibb.co/vmqRpf0")
+<img align="right" alt="Python Programming" width="400" src="https://ibb.co/vmqRpf0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisnobrur&label=Profile%20views&color=0e75b6&style=flat" alt="bisnobrur" /> </p>
 
