@@ -1,4 +1,3 @@
-[![MasterHead](https://ibb.co/Vj9GT0f)]
 <h1 align="center">Hi , I'm Bisno Das</h1>
 <h3 align="center">A Passionate Python Programmer and WordPress Developer From Bangladesh</h3>
 <img align="right" alt="Python Programming" width="400" src="https://pasteboard.co/QzGFe1EKgv4t.gif">
